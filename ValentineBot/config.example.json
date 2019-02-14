@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "api_secret": "",
+  "debug_channel_id": 0,
+  "guild_id": 0,
+  "faction_id": 0,
+  "file_url": "",
+  "embed_color": "",
+  "debug": false,
+  "simulate": false,
+  "debug_role_ids": [ ],
+  "debug_single_send_id": 0
+}
